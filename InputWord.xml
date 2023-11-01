@@ -1,0 +1,26 @@
+<Main xmlns="InputWord">
+ <Number>BS_Number</Number>
+ <Code>Code</Code>
+ <Range>Range</Range>
+ <Address>address</Address>
+ <Contractor></Contractor>
+ <ResponseNumber></ResponseNumber>
+ <ResponseAddress></ResponseAddress>
+ <Organisation>Organisation</Organisation>
+ <GIP>Gip</GIP>
+ <Year>Year</Year>
+ <Month></Month>
+ <Day></Day>
+ <Add>
+  <Field_1></Field_1>
+  <Field_2></Field_2>
+  <Field_3></Field_3>
+  <Field_4></Field_4>
+  <Field_5></Field_5>
+  <Field_6></Field_6>
+  <Field_7></Field_7>
+  <Field_8></Field_8>
+  <Field_9></Field_9>
+  <Field_10></Field_10>
+</Add>
+</Main>
